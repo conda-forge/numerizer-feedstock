@@ -1,11 +1,11 @@
-About numerizer
-===============
+About numerizer-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/numerizer-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/jaidevd/numerizer
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/numerizer-feedstock/blob/main/LICENSE.txt)
 
 Summary: Python module for converting natural language numbers into ints and floats.
 
