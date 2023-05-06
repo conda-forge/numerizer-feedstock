@@ -1,5 +1,5 @@
 {% set name = "numerizer" %}
-{% set version = "0.2.2" %}
+{% set version = "0.2.3" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/numerizer-{{ version }}.tar.gz
-  sha256: d15deecd3ad25f1cb89608cb505af1abf31137944a30263d3cdf27c06903c053
+  sha256: 232ef2e8faee475323c955cf544f77a6c14b491d21f33a6b866facedd955b12d
 
 build:
   noarch: python
